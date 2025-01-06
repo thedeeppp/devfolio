@@ -40,13 +40,13 @@ const Meta = () => (
       rel="icon"
       type="image/png"
       sizes="32x32"
-      href="/favicons/favicon-32x32.png"
+      href="/favicons/vercel.png"
     />
     <link
       rel="icon"
       type="image/png"
       sizes="16x16"
-      href="/favicons/favicon-16x16.png"
+      href="/favicons/vercel.png"
     />
     <meta name="msapplication-TileColor" content="#7000FF" />
     <link rel="manifest" href="/manifest.json" />
