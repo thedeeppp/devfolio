@@ -44,9 +44,10 @@ export const MENULINKS = [
 ];
 
 export const TYPED_STRINGS = [
-  "A pragmatic Frontend Developer",
-  "I build things for the web",
+  "A Full stack Engnieer and Web3 Developer",
   "I create aesthetic and modern apps",
+  "I love to solve problems",
+  "A WEB3 Geek"
 ];
 
 export const SOCIAL_LINKS = [

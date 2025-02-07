@@ -8,10 +8,10 @@ import { MENULINKS, TYPED_STRINGS } from "../../constants";
 
 const options = {
   strings: TYPED_STRINGS,
-  typeSpeed: 50,
+  typeSpeed: 35,
   startDelay: 1500,
-  backSpeed: 50,
-  backDelay: 8000,
+  backSpeed: 30,
+  backDelay: 2000,
   loop: true,
 };
 
