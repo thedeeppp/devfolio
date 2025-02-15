@@ -2,13 +2,13 @@ export const METADATA = {
   author: "Deep Trivedi",
   title: "Portfolio | Deep Trivedi",
   description:
-    "Deep Trivedi is a passionate Frontend Engineer, dedicated to crafting aesthetic and modern apps that captivate and engage users.",
+    "Deep Trivedi is a passionate Fullstack Engineer, dedicated to crafting aesthetic and modern apps that captivate and engage users.",
   // siteUrl: "https://www.shubhporwal.me/",
   twitterHandle: "@deep_trivedi__",
   keywords: [
     "Deep Trivedi",
-    "Frontend Engineer",
-    "React Native Developer",
+    "Full stack Developer",
+    "Blockchain Developer",
     "Software Engineer",
     "Portfolio",
     "Devfolio",
